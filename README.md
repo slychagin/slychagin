@@ -1,6 +1,11 @@
-### Hi there, I'm Sergey 👋
+<h3 align="center">Hi there, I'm Sergey 👋</h3>
 
-Python developer and fun of Django
+<h5 align="center"> Python developer and fun of Django </h5>
+
+
+
+
+
 
 <!--
 **slychagin/slychagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
