@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **serg.programmer777@gmail.com**
 
+- in Telegram: https://t.me/slychagin
+
 - 📄 Know about my experiences [https://rostov.hh.ru/resume/a1fdfbf5ff0b08a83b0039ed1f373732704862](https://rostov.hh.ru/resume/a1fdfbf5ff0b08a83b0039ed1f373732704862)
 
 
