@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Sergey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer+and+fun+of+Django" alt="Typing SVG" /></a></div>
+<div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer" alt="Typing SVG" /></a></div>
 
 - 🔭 My stack: **Django, FastAPI, PostgreSQL**
 
