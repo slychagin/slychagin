@@ -2,9 +2,7 @@
 
 <div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer+and+fun+of+Django" alt="Typing SVG" /></a></div>
 
-- 🔭 I’m currently working on [Online Store](https://github.com/slychagin/sip-store)
-
-- 🌱 I’m currently learning **FastAPI, MongoDB, Scrapy**
+- 🔭 My stack: **Django, FastAPI, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/slychagin?tab=repositories](https://github.com/slychagin?tab=repositories)
 
@@ -13,8 +11,6 @@
 - 📫 How to reach me **serg.programmer777@gmail.com**
 
 - in Telegram: https://t.me/slychagin
-
-- 📄 Know about my experiences [https://rostov.hh.ru/resume/a1fdfbf5ff0b08a83b0039ed1f373732704862](https://rostov.hh.ru/resume/a1fdfbf5ff0b08a83b0039ed1f373732704862)
 
 
 <h3 align="left">Languages and Tools:</h3>
